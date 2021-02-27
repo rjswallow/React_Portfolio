@@ -1,0 +1,68 @@
+{
+    "project": [
+        {
+            "_id ": 1,
+            "title": "Google Books",
+            "about": "Search and save descriptions of books available on Google Books",
+            "thumbnail": "../assets/smgooglebooks.jpg",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 2,
+            "title": "React User Directory",
+            "about": "Navigate and filter through a list of your employees",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 3,
+            "title": "Budget Tracker",
+            "about": "Track income and expenses with Budget Tracker",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 4,
+            "title": "Workout Planner",
+            "about": "Track your daily workouts with Workout Planner",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 5,
+            "title": "Note Taker",
+            "about": "Don't forget a thing with Note Taker",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 6,
+            "title": "Weather Dashboard",
+            "about": "Don't forget to pack an umbrella with Weather Dashboard",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 7,
+            "title": "fridGenerator",
+            "about": "Generate meals with what's left in your fridge",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        },
+        {
+            "_id ": 8,
+            "title": "Garage Exchange",
+            "about": "Your junk is anothers treasure with Garage Exchange",
+            "thumbnail": "",
+            "deployment":"",
+            "repo": ""
+        }
+    ]
+}
