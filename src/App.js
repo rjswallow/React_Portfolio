@@ -14,9 +14,9 @@ function App() {
       <>
       {/* <Container> */}
       <Navbar />
-      <Route exact path= "/reactportfolio/about" component={About} />
-      <Route exact path= "/reactportfolio/projects" component={ProjectPage} />
-      <Route exact path= "/reactportfolio/resume" component={Resume} />
+      <Route exact path= "/about" component={About} />
+      <Route exact path= "/projects" component={ProjectPage} />
+      <Route exact path= "/resume" component={Resume} />
       {/* <Footer /> */}
       {/* </Container> */}
       </>
