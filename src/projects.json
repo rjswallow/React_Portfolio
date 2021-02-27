@@ -4,7 +4,7 @@
             "_id ": 1,
             "title": "Google Books",
             "about": "Search and save descriptions of books available on Google Books",
-            "thumbnail": "./images/projects/books.png",
+            "thumbnail": "/images/projects/books.png",
             "deployment":"https://polar-journey-41733.herokuapp.com/",
             "repo": "https://github.com/rjswallow/21_Google_Books"
         },
@@ -12,7 +12,7 @@
             "_id ": 2,
             "title": "React User Directory",
             "about": "Navigate and filter through a list of your employees",
-            "thumbnail": "./images/projects/employeedir.png",
+            "thumbnail": "/images/projects/employeedir.png",
             "deployment":"https://rjswallow.github.io/React_User_Directory_19/",
             "repo": "https://github.com/rjswallow/React_User_Directory_19"
         },
@@ -20,7 +20,7 @@
             "_id ": 3,
             "title": "Budget Tracker",
             "about": "Track income and expenses with Budget Tracker",
-            "thumbnail": "./images/projects/budget.png",
+            "thumbnail": "/images/projects/budget.png",
             "deployment":"https://vast-spire-78413.herokuapp.com/",
             "repo": "https://github.com/rjswallow/Progressive_Budget_18"
         },
@@ -28,7 +28,7 @@
             "_id ": 4,
             "title": "Workout Planner",
             "about": "Track your daily workouts with Workout Planner",
-            "thumbnail": "./images/projects/workout.png",
+            "thumbnail": "/images/projects/workout.png",
             "deployment":"https://shrouded-sierra-43715.herokuapp.com/?id=60313bf33753f800158f7c47",
             "repo": "https://github.com/rjswallow/Workout_Planner_17"
         },
@@ -36,7 +36,7 @@
             "_id ": 5,
             "title": "Note Taker",
             "about": "Don't forget a thing with Note Taker",
-            "thumbnail": "./images/projects/notes.png",
+            "thumbnail": "/images/projects/notes.png",
             "deployment":"https://robsnotetaker.herokuapp.com/",
             "repo": "https://github.com/rjswallow/Note-Taker-11"
         },
@@ -44,7 +44,7 @@
             "_id ": 6,
             "title": "Weather Dashboard",
             "about": "Don't forget to pack an umbrella with Weather Dashboard",
-            "thumbnail": "./images/projects/weather.png",
+            "thumbnail": "/images/projects/weather.png",
             "deployment":"https://rjswallow.github.io/Weather_Forecast_06/",
             "repo": "https://github.com/rjswallow/Weather_Forecast_06"
         },
@@ -52,7 +52,7 @@
             "_id ": 7,
             "title": "fridGenerator",
             "about": "Generate meals with what's left in your fridge",
-            "thumbnail": "./images/projects/fridg.png",
+            "thumbnail": "/images/projects/fridg.png",
             "deployment":" https://b-hexsoul.github.io/fridGenerator/",
             "repo": "https://github.com/b-hexsoul/fridGenerator"
         },
@@ -60,7 +60,7 @@
             "_id ": 8,
             "title": "Garage Exchange",
             "about": "Your junk is anothers treasure with Garage Exchange",
-            "thumbnail": "./images/projects/garage.png",
+            "thumbnail": "/images/projects/garage.png",
             "deployment":" https://frozen-earth-11241.herokuapp.com/",
             "repo": "https://github.com/samrod777/GarageExchange"
         }

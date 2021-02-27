@@ -3,8 +3,8 @@ import project from "../projects.json";
 
 function Projects(){
     const SingleProject = project.project.map((item) =>
-    <div className="card " style={{width: "18rem"}}>
-  <img src={item.thumbnail} className="card-img" alt=""/>
+    <div className="card " style={{width: "25%"}}>
+  <img src={process.env.PUBLIC_URL + item.thumbnail} className="card-img" alt=""/>
   <div className="card-body">
 <h5 className="card-title">{item.title}</h5>
     <p className="card-text">{item.about}</p>
