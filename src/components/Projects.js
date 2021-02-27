@@ -3,12 +3,13 @@ import project from "../projects.json";
 
 function Projects(){
     const SingleProject = project.project.map((item) =>
-    <div className="card" >
+    <div className="card " style={{width: "18rem"}}>
   <img src={item.thumbnail} className="card-img" alt=""/>
   <div className="card-body">
 <h5 className="card-title">{item.title}</h5>
     <p className="card-text">{item.about}</p>
-    <a href="/" className="btn btn-primary">Repo</a>
+    <a href={item.repo} className="btn btn-primary">Repo</a>
+    <a href={item.deployment} className="btn btn-primary">Depoloyment</a>
   </div>
 </div>
     )
