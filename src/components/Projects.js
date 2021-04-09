@@ -14,9 +14,12 @@ function Projects(){
 </div>
     )
 
-return (<div className="row">
- {SingleProject}
+return (
+  <div className="container">
+    <div className="row">
+      {SingleProject}
     </div>
+  </div>
 );
 }
 export default Projects

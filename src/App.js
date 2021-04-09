@@ -12,14 +12,14 @@ function App() {
   return (
     <Router>
       <>
-      {/* <Container> */}
+      <Container>
       <Navbar />
       <Route exact path= "/" component={About} />
       <Route exact path= "/about" component={About} />
       <Route exact path= "/projects" component={ProjectPage} />
       <Route exact path= "/resume" component={Resume} />
       {/* <Footer /> */}
-      {/* </Container> */}
+      </Container>
       </>
     </Router>
   );
