@@ -1,5 +1,6 @@
 import React from "react";
 import project from "../projects.json";
+import  "../../src/index.css"
 
 function Projects(){
     const SingleProject = project.project.map((item) =>
