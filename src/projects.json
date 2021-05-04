@@ -3,15 +3,15 @@
         {
             "_id ": 1,
             "title": "Panda Patter",
-            "about": "Translate words and create flashcards",
-            "thumbnail": "/images/projects/fridg.png",
-            "deployment":" https://b-hexsoul.github.io/fridGenerator/",
+            "about": "Translate words and create flashcards with Pannda Patter!",
+            "thumbnail": "/images/projects/panda.png",
+            "deployment":"https://pandapatter.herokuapp.com/",
             "repo": "https://github.com/b-hexsoul/fridGenerator"
         },
         {
             "_id ": 2,
             "title": "fridGenerator",
-            "about": "Turn your leftovers into meals with fridGenerator",
+            "about": "Turn your leftovers into meals with fridGenerator!",
             "thumbnail": "/images/projects/fridg.png",
             "deployment":" https://b-hexsoul.github.io/fridGenerator/",
             "repo": "https://github.com/b-hexsoul/fridGenerator"
@@ -19,7 +19,7 @@
         {
             "_id ": 3,
             "title": "Garage Exchange",
-            "about": "Your junk is anothers treasure with Garage Exchange",
+            "about": "Your junk is anothers treasure with Garage Exchange!",
             "thumbnail": "/images/projects/garage.png",
             "deployment":" https://frozen-earth-11241.herokuapp.com/",
             "repo": "https://github.com/samrod777/GarageExchange"
