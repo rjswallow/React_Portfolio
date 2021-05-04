@@ -8,6 +8,8 @@ import Resume from "./pages/Resume";
 import Footer from "./components/Footer";
 
 
+
+
 function App() {
   return (
     <Router>
