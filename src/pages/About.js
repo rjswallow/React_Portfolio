@@ -18,8 +18,20 @@ export default function About() {
                             to continued learning and becoming more involved in the community. <br /><br /> I currently operate from the West Coast
                                         out of La Quinta California. I graduated from the University of Southern California Santa Barbara with a degree in
                             Religious Studies. Professionally I have worked sales in retail, luxury services, professional education, and tech. <br /><br />
-                                                Please reach out via LinkedIn, GitHub, or E-Mail. </p>
-                            <a href="https://github.com/rjswallow" className="btn btn-primary">My GitHub</a> <a href="https://www.linkedin.com/in/robert-swallow-252319a8/" className="btn btn-primary">My LinkedIn</a> <a href="Assets/currentResume.pdf" className="btn btn-primary">My Resume</a>
+                                                Please reach out via LinkedIn, GitHub, or E-Mail.
+                                              
+                                                
+                                                 </p>
+                            <a href="https://github.com/rjswallow" className="btn btn-primary">My GitHub</a> <a href="https://www.linkedin.com/in/robert-swallow-252319a8/" className="btn btn-primary">My LinkedIn</a> <a href="/Resume.js" className="btn btn-primary">My Resume</a>
+
+                            <br></br>
+                            <br></br>
+
+                            robertjswallow@gmail.com
+
+                            <br></br>
+
+
                         </div>
 
                     </div>

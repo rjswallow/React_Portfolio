@@ -8,7 +8,7 @@ export default function Resume() {
                     <img src={process.env.PUBLIC_URL + "/images/projects/resp1.png"} alt="resume page 1" />
                     <br />
                     <img src={process.env.PUBLIC_URL + "/images/projects/resp2.png"} alt="resume page 2" />
-                    click to download
+                    
                 </a>
             </div>
             
