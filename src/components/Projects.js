@@ -17,7 +17,7 @@ function Projects(){
     <Card.Body>
       <Card.Title> {item.title} </Card.Title>
       <Card.Text> {item.about} </Card.Text>
-      <Button variant="primary">Repo</Button>
+      <Button variant="primary"></Button>
       <Button variant="primary">Depolyed</Button>
     </Card.Body>
     <Card.Footer>
