@@ -4,7 +4,7 @@ This react portfolio contains sosme of my favorite work from the University of W
 
 # Deployed Link
 
-[Workout Planner] (https://github.com/rjswallow/React_Portfolio)
+[Portfolio](https://github.com/rjswallow/React_Portfolio)
 
 ## Usage
 
